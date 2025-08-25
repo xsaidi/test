@@ -4,4 +4,6 @@ fun main(){
     var y = readLine()
     println(y*y)
     println("git hello")
+    Lorem ipsum
+    dolor sit amet
 }
