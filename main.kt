@@ -3,4 +3,5 @@ fun main(){
     println(x*x)
     var y = readLine()
     println(y*y)
+    println("git hello")
 }
